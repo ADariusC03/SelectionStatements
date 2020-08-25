@@ -1,0 +1,13 @@
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\obj\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.csprojAssemblyReference.cache
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\obj\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.AssemblyInfoInputs.cache
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\obj\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.AssemblyInfo.cs
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\obj\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.csproj.CoreCompileInputs.cache
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\bin\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.exe
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\bin\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.deps.json
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\bin\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.runtimeconfig.json
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\bin\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.runtimeconfig.dev.json
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\bin\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.dll
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\bin\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.pdb
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\obj\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.dll
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\obj\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.pdb
+C:\Users\adari\source\repos\SelectionStatements\Exercise 2, Selecton Statement\obj\Debug\netcoreapp3.1\Exercise 2, Selecton Statement.genruntimeconfig.cache
